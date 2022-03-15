@@ -9,7 +9,7 @@
     <img src="img/icon.png" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">Pig - The Dice Game</h3>
+<h3 align="center">PIG - The Dice Game</h3>
 
   <p align="center">
     A simple dice game which in its basic form is playable with just a single die.
