@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ihossain9595/guess-my-number">
-    <img src="img/favicon-512.png" alt="Logo" width="160" height="160">
+    <img src="img/icon.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">Guess My Number</h3>
