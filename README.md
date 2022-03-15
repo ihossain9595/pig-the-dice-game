@@ -60,7 +60,7 @@ Thanks to Jonas Schmedtmann (@jonasschmedtman).
 
 Ismail Hossain - [@ihossain9595](https://twitter.com/ihossain9595) - ihossain9595@gmail.com
 
-Project Link: [https://github.com/ihossain9595/guess-my-number](https://github.com/ihossain9595/guess-my-number)
+Project Link: [https://github.com/ihossain9595/pig-the-dice-game](https://github.com/ihossain9595/pig-the-dice-game)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
